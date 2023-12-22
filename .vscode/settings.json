@@ -1,0 +1,9 @@
+{
+  "[rust]": {
+    "editor.tabSize": 4
+  },
+  "rust-analyzer.linkedProjects": [
+    "./hello/Cargo.toml",
+    "./true/Cargo.toml",
+  ]
+}
