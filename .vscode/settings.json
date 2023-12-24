@@ -6,5 +6,10 @@
     "./hello/Cargo.toml",
     "./true/Cargo.toml",
     "./false/Cargo.toml",
+    "./echor/Cargo.toml",
+  ],
+  "rust-analyzer.showUnlinkedFileNotification": false,
+  "cSpell.words": [
+    "echor"
   ]
 }
