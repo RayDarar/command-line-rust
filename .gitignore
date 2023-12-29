@@ -1,3 +1,4 @@
 target/
 *.exe
 *.pdb
+command-line-rust/

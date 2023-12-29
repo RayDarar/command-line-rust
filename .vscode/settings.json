@@ -7,9 +7,13 @@
     "./true/Cargo.toml",
     "./false/Cargo.toml",
     "./echor/Cargo.toml",
+    "./catr/Cargo.toml",
   ],
   "rust-analyzer.showUnlinkedFileNotification": false,
   "cSpell.words": [
-    "echor"
-  ]
+    "catr",
+    "echor",
+    "nonblank"
+  ],
+  "files.eol": "\n"
 }
